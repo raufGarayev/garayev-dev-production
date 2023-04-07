@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/garayev-dev-production/static/css/main.e5b9ddc3.css",
-    "main.js": "/garayev-dev-production/static/js/main.4242bd1d.js",
+    "main.css": "/garayev-dev-production/static/css/main.53f59b18.css",
+    "main.js": "/garayev-dev-production/static/js/main.526a5577.js",
     "static/media/han-logo.png": "/garayev-dev-production/static/media/han-logo.0c10c72231dbdac64f5d.png",
     "static/media/pfp.jpg": "/garayev-dev-production/static/media/pfp.dcc5fc5192a792bd0f7c.jpg",
-    "static/media/gotovo.png": "/garayev-dev-production/static/media/gotovo.c0929544e347f447f35b.png",
+    "static/media/gotovo.png": "/garayev-dev-production/static/media/gotovo.4f7f5727a04930402669.png",
     "index.html": "/garayev-dev-production/index.html",
-    "main.e5b9ddc3.css.map": "/garayev-dev-production/static/css/main.e5b9ddc3.css.map",
-    "main.4242bd1d.js.map": "/garayev-dev-production/static/js/main.4242bd1d.js.map"
+    "main.53f59b18.css.map": "/garayev-dev-production/static/css/main.53f59b18.css.map",
+    "main.526a5577.js.map": "/garayev-dev-production/static/js/main.526a5577.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5b9ddc3.css",
-    "static/js/main.4242bd1d.js"
+    "static/css/main.53f59b18.css",
+    "static/js/main.526a5577.js"
   ]
 }
